@@ -1,0 +1,15 @@
+vsim -f sknobs/sim.knobs +modo=0 +op=1 +num_req=10 +vcd_name=test_1.vcd
+vsim -f sknobs/sim.knobs +modo=0 +op=1 +num_req=10 +vcd_name=test_2.vcd
+vsim -f sknobs/sim.knobs +modo=0 +op=2 +num_req=10 +vcd_name=test_3.vcd
+vsim -f sknobs/sim.knobs +modo=0 +op=3 +num_req=10 +vcd_name=test_4.vcd
+vsim -f sknobs/sim.knobs +modo=0 +op=4 +num_req=10 +vcd_name=test_5.vcd
+vsim -f sknobs/sim.knobs +modo=0 +op=5 +num_req=10 +vcd_name=test_6.vcd
+vsim -f sknobs/sim.knobs +modo=0 +op=6 +num_req=10 +vcd_name=test_7.vcd
+vsim -f sknobs/sim.knobs +modo=0 +op=7 +num_req=10 +vcd_name=test_8.vcd
+vsim -f sknobs/sim.knobs +modo=1 +op=0 +num_req=10 +vcd_name=test_9.vcd
+vsim -f sknobs/sim.knobs +modo=1 +op=2 +num_req=10 +vcd_name=test_10.vcd
+vsim -f sknobs/sim.knobs +modo=1 +op=3 +num_req=10 +vcd_name=test_11.vcd
+vsim -f sknobs/sim.knobs +modo=1 +op=4 +num_req=10 +vcd_name=test_12.vcd
+vsim -f sknobs/sim.knobs +modo=1 +op=5 +num_req=10 +vcd_name=test_13.vcd
+vsim -f sknobs/sim.knobs +modo=1 +op=6 +num_req=10 +vcd_name=test_14.vcd
+vsim -f sknobs/sim.knobs +modo=1 +op=7 +num_req=10 +vcd_name=test_15.vcd

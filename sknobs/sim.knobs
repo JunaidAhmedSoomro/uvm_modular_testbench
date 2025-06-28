@@ -1,0 +1,8 @@
+-c
+-suppress 144
+-L /home/junaid/questasim/uvm-1.2
++UVM_TESTNAME=alu_test
+work.tb_top
+-voptargs=+acc
+-do "log -r /*; run -all; quit"
+-f sknobs/debug.knobs

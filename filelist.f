@@ -1,0 +1,13 @@
++incdir+TB
+RTL/design.sv
+TB/sequence_item.sv
+TB/reset_test_sequence.sv
+TB/base_sequence.sv
+TB/driver.sv
+TB/monitor.sv
+TB/scoreboard.sv
+TB/agent.sv
+TB/environment.sv
+TB/test_top.sv
+TB/bfm.sv
+TB/testbench.sv
